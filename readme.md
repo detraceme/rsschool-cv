@@ -1,1 +1,1 @@
-https://detraceme.github.io/rsschool-cv/cv
+https://detraceme.github.io/rsschool-cv/
